@@ -1,6 +1,7 @@
 ## 🦊 StormHeartFox's Github 🦊
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stormheartfox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stormheartfox&theme=highContrast)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Golang
