@@ -28,6 +28,11 @@ I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure. But as
 
 [![opgc](https://api.opgc.me/githubs/users/stormheartfox/tag/?theme=dracula)](https://opgc.me/#/users/utilForever)
 
+
+<!--
+**stormheartfox/stormheartfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -36,11 +41,6 @@ I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure. But as
 - 📫 How to reach me: you can reach me here on Github or via LinkedIn
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Outside of development I am a competition rock climber & have podiumed over 10 times since I began climbing in 2022!
-
-<!--
-**stormheartfox/stormheartfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 -->
