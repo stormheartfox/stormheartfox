@@ -18,10 +18,6 @@
 [![](https://visitcount.itsvg.in/api?id=stormheartfox&icon=1&color=8)](https://visitcount.itsvg.in)
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=stormheartfox&theme=highContrast)](https://git.io/streak-stats)
-[![stormheartfox's github stats](https://github-readme-stats.vercel.app/api?username=stormheartfox&show_icons=true&theme=dracula)](https://github.com/stormheartfox)
-
 [![opgc](https://api.opgc.me/githubs/users/stormheartfox/tag/?theme=dracula)](https://opgc.me/#/users/utilForever)
 
 - 🔭 I’m currently working on ...
