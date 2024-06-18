@@ -6,7 +6,11 @@ Welcome to my GitHub! My name is Michael!
 
 I began software engineering in 2021 as a consultant developer for Thoughtworks, and transitioned into DevOps in 2023, designing and deploying infrastructure for government projects up until the present day.
 
+I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to utilise Go for projects now.
+
 I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure. But as with anything, I continue to learn any new technology I can get my hands on.
+
+If you have an Open Source Project and think I could help, let me know!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-v-1941b9201) 
