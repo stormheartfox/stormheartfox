@@ -40,15 +40,6 @@ If you have an Open Source Project and think I could help, let me know!
 <!--
 **stormheartfox/stormheartfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with repos to contribute on
-- 💬 Ask me about DevOps & Kubernetes deployments
-- 📫 How to reach me: you can reach me here on Github or via LinkedIn
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Outside of development I am a competition rock climber & have podiumed over 10 times since I began climbing in 2022!
 
 
 -->
