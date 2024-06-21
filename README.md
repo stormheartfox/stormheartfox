@@ -1,5 +1,5 @@
 ## 🦊 StormHeartFox's Github 🦊
-
+![](https://github-readme-stats.vercel.app/api?username=pringletom&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 Hey there!
 
 Welcome to my GitHub! My name is Michael! 
