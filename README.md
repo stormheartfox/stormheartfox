@@ -1,6 +1,6 @@
 ## 🦊 StormHeartFox's Github 🦊
 
-Hey there!
+Hello there!
 
 Welcome to my GitHub! My name is Michael! 
 
