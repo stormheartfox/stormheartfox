@@ -12,6 +12,7 @@ I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure. But as
 
 If you have an Open Source Project and think I could help, let me know!
 
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-v-1941b9201) 
 
@@ -62,7 +63,7 @@ If you have an Open Source Project and think I could help, let me know!
 
 
 <!--
-double check
+double check also check for hobby badges
  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a>
