@@ -10,6 +10,8 @@ I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to ut
 
 I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure. But as with anything, I continue to learn any new technology I can get my hands on.
 
+Helping to shift security left with every single deployment.
+
 If you have an Open Source Project and think I could help, let me know!
 
 
