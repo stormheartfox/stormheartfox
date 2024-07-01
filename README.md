@@ -39,8 +39,6 @@ If you have an Open Source Project and think I could help, let me know!
 <!--
 **stormheartfox/stormheartfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 -->
 <!--
 <p align="left">  
