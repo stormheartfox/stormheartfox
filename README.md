@@ -14,6 +14,7 @@ Helping to shift security left with every single deployment.
 
 If you have an Open Source Project and think I could help, let me know!
 
+Creating learning resources for aspiring Devs
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-v-1941b9201) 
