@@ -15,7 +15,7 @@ Helping to shift security left with every single deployment.
 If you have an Open Source Project and think I could help, let me know!
 
 ### Creating learning resources for aspiring Devs:
-Learning to code will introduce concepts from command line to JavaScript with exercises.
+Learning-to-code will introduce concepts from command line to JavaScript with exercises.
 Practice-for-tom is a repo with content that teaches Python, originally built around WebEx meetings with my friend Tom, who is an aspiring Dev.
 
 ## 🌐Socials
