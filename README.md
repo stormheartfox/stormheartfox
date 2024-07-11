@@ -4,7 +4,7 @@ Hello there!
 
 Welcome to my GitHub! My name is Michael! 
 
-I began software engineering in 2021 as a consultant developer for Thoughtworks, and transitioned into DevOps in 2023, designing and deploying infrastructure for government projects up until the present day.
+I began software engineering in 2021 as a consultant developer for Thoughtworks, and transitioned into DevOps in 2023 for BAE Systems: Digital Intelligence, designing and deploying infrastructure for government projects up until the present day.
 
 I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to utilise Go for projects now.
 
