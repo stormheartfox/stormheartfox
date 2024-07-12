@@ -8,7 +8,7 @@ I began software engineering in 2021 as a consultant developer for Thoughtworks,
 
 I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to utilise Go for projects now.
 
-I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure. But as with anything, I continue to learn any new technology I can get my hands on.
+I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure when it comes to DevOps and specialise in Governance, Risk & Compliance when it comes to Information Security. But as with anything, I continue to learn any new technology and system I can get my hands on.
 
 Helping to shift security left with every single deployment.
 
