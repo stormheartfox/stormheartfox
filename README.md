@@ -16,10 +16,16 @@ Helping to shift security left with every single deployment.
 
 If you have an Open Source Project and think I could help, let me know!
 
+### Side Projects:
+I currently am working on a new game release for Vanilla Monster - Bear Bull Shark - a machine learning driven deck building game scheduled for Alpha release in 2025. Utilising Godot I am helping migrating the proof of concept into a fully fledged game.
+
 ### Creating learning resources for aspiring Devs:
 Learning-to-code will introduce concepts from command line to JavaScript with exercises.
 Practice-for-tom is a repo with content that teaches Python, originally built around WebEx meetings with my friend Tom, who is an aspiring Dev.
 flask-on-render is a repo with Issues to solve that will allow a full stack application to run, hosted on Render.
+
+### Mentoring Software Engineers:
+I currently mentor my friend and fellow rock climber Tom Pringle in software engineering, primarily in React, JavaScript, Python and the game engine Godot.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-v-1941b9201) 
