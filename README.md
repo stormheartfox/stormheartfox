@@ -4,9 +4,7 @@ Hello there!
 
 Welcome to my GitHub! My name is Michael! 
 
-I began software engineering in 2021 as a consultant developer for Thoughtworks, and transitioned into DevOps in 2023 for BAE Systems: Digital Intelligence, designing and deploying infrastructure for government projects.
-
-I now work in Cyber Security Automation & Engineering for Optus Australia. Helping harden one of Australia's major telecommunications providers against ongoing threats, internally & externally.
+I work in Cyber Security, with a particular focus in the DevSecOps space.
 
 I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to utilise Go for projects now.
 
@@ -17,7 +15,7 @@ Helping to shift security left with every single deployment.
 If you have an Open Source Project and think I could help, let me know!
 
 ### Side Projects:
-I currently am working on a new game release for Vanilla Monster - Bear Bull Shark - a machine learning driven deck building game scheduled for Alpha release in 2025. Utilising Godot I am helping migrating the proof of concept into a fully fledged game.
+I currently am not currently building any side projects.
 
 ### Creating learning resources for aspiring Devs:
 Learning-to-code will introduce concepts from command line to JavaScript with exercises.
