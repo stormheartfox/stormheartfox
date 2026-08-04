@@ -4,7 +4,7 @@ Hello there!
 
 Welcome to my GitHub! My name is Michael! 
 
-I work in Cyber Security, with a particular focus in the DevSecOps space.
+I work in Cyber Security, with a particular focus in the DevSecOps space. Delivering bespoke specialised strategic engagements for clients across multiple domains within Australia and abroad. Reviewing SDLC, Cloud Architecture, AI implementations and more.
 
 I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to utilise Go for projects now.
 
