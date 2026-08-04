@@ -8,7 +8,7 @@ I work in Cyber Security, with a particular focus in the DevSecOps space. Delive
 
 I am proficient in React, NextJS, ExpressJS,C#, Python and am learning how to utilise Go for projects now.
 
-I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Azure when it comes to DevOps and specialise in Governance, Risk & Compliance when it comes to Information Security. But as with anything, I continue to learn any new technology and system I can get my hands on.
+I primarily specialise in Kubernetes(with Helm), Ansible, Docker & Cloud services in the DevSecOps space particularly focusing on AI deployments and the SDLC in the modern age of development utilising agentic capabilities.
 
 Helping to shift security left with every single deployment.
 
@@ -18,9 +18,7 @@ If you have an Open Source Project and think I could help, let me know!
 I currently am not currently building any side projects.
 
 ### Creating learning resources for aspiring Devs:
-Learning-to-code will introduce concepts from command line to JavaScript with exercises.
-Practice-for-tom is a repo with content that teaches Python, originally built around WebEx meetings with my friend Tom, who is an aspiring Dev.
-flask-on-render is a repo with Issues to solve that will allow a full stack application to run, hosted on Render.
+I have spent some time creating resources on my Github for aspiring devs to learn coding, but these days the focus around Agentic AI and AI coding tools, these will have to shift towards understand conceptually how to create securely coded prompt returns.
 
 ### Mentoring Software Engineers:
 I currently mentor my friend and fellow rock climber Tom Pringle in software engineering, primarily in React, JavaScript, Python and the game engine Godot.
